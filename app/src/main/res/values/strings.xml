@@ -1,0 +1,12 @@
+<resources>
+    <string name="nama">Nama</string>
+    <string name="ruangan">Ruangan</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="id">ID</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="tambah_pasien">Tambah Pasien</string>
+    <string name="edit_pasien">Edit Pasien</string>
+    <string name="loading_text">Loading...</string>
+    <string name="umur">Umur</string>
+</resources>
